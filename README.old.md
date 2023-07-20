@@ -1,1 +1,0 @@
-# wallet-myalgo-test
